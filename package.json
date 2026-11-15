@@ -1,0 +1,6 @@
+{
+  "name": "portfolio-clement-palamara-varlet",
+  "private": true,
+  "scripts": { "build": "node build.js" },
+  "dependencies": { "sharp": "^0.33.5" }
+}
